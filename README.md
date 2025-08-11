@@ -24,3 +24,6 @@ This repository contains all the exercises and projects completed as part of the
 
 ### Week 6-7: React.js
 - **Multiple React Applications**: Hands-on labs covering React fundamentals, component structure, routing, state management, lifecycle methods, and more advanced concepts
+  
+### Week 6: Git
+- **Learned Basic to Advanced Git Concepts
